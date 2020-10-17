@@ -1,3 +1,6 @@
+// for command line git tutorial 
+// github modification
+
 added tell her world
 print ("hello world")
 print ("tell your world")
